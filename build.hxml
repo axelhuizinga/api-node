@@ -1,0 +1,9 @@
+-lib hxnodejs
+-lib axios
+-lib json2object
+-cp src
+-main Main
+-js server.js
+#app-D axios_global
+-D no-deprecation-warnings
+#-dce no
